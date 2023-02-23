@@ -1,0 +1,32 @@
+/* Write your CSS code here */
+.blog-info {
+  display: flex;
+  flex-direction: column;
+}
+.author-details {
+  display: flex;
+  flex-direction: row;
+  margin-left: 20px;
+}
+
+.author-pic {
+  height: 30px;
+  width: 30px;
+}
+.blog-image {
+  height: 300px;
+  width: 90%;
+  margin-left: 20px;
+}
+.blog-details-title {
+  font-size: 20px;
+  align-self: center;
+}
+.details-author-name {
+  margin-top: 0px;
+  margin-left: 10px;
+}
+.blog-content {
+  width: 80%;
+  margin-left: 20px;
+}
